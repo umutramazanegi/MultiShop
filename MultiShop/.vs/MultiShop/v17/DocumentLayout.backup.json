@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Github\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\createproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\createproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +39,16 @@
       "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\categorydtos\\getbyidcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\categorydtos\\getbyidcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED1FCBE-DE98-426A-85FB-63B411280B1B}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\github\\multishop\\multishop\\services\\catalog\\multishop.catalog\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,81 +110,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductDetailDto.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:40:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:40:26.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:40:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetByIdProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:40:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:40:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductImagesController.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:34:07.093Z"
+              "WhenOpened": "2025-04-12T23:34:07.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ProductDetailsController.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:33:54.52Z"
+              "WhenOpened": "2025-04-12T23:33:54.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T23:34:14.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T23:50:31.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:28:54.604Z"
+              "WhenOpened": "2025-04-12T23:28:54.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowDsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:37:08.665Z"
+              "WhenOpened": "2025-04-12T23:37:08.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
@@ -176,23 +248,25 @@
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:42:07.24Z"
+              "WhenOpened": "2025-04-12T23:42:07.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T00:04:33.997Z"
+              "WhenOpened": "2025-04-13T00:04:33.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "GetByIdCategoryDto.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
@@ -204,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ResultCategoryDto.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
@@ -216,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "UpdateCategoryDto.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
@@ -228,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entites\\Category.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entites\\Category.cs",
@@ -240,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
@@ -252,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "IDatabaseSettings.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\IDatabaseSettings.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Settings\\IDatabaseSettings.cs",
@@ -264,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
@@ -276,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
@@ -288,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
@@ -300,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\IProductService.cs",
