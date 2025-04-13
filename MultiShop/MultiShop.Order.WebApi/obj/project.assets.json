@@ -1002,7 +1002,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "MediatR": "12.5.0",
+          "MediatR": "12.2.0",
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "MultiShop.Order.Domain": "1.0.0"
         },
@@ -3068,16 +3068,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: MediatR from 12.5.0 to 12.2.0. Reference the package directly from the project to select a different version. \r\n MultiShop.Order.WebApi -> MultiShop.Order.Application -> MediatR (>= 12.5.0) \r\n MultiShop.Order.WebApi -> MediatR (>= 12.2.0)",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "MediatR/12.5.0": {
+      "MediatR/12.2.0": {
         "type": "package",
         "dependencies": {
           "MediatR.Contracts": "[2.0.1, 3.0.0)",
@@ -112,20 +112,19 @@
     }
   },
   "libraries": {
-    "MediatR/12.5.0": {
-      "sha512": "vqm2H8/nqL5NAJHPhsG1JOPwfkmbVrPyh4svdoRzu+uZh6Ex7PRoHBGsLYC0/RWCEJFqD1ohHNpteQvql9OktA==",
+    "MediatR/12.2.0": {
+      "sha512": "8TUFrHapKi6D74PhnSNEguRsH91HNGyP3R4ZQdgDorJgl9Wac5Prh0vA33QfrniAaS6L2xNNhc6vxzg+5AIbwA==",
       "type": "package",
-      "path": "mediatr/12.5.0",
+      "path": "mediatr/12.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "README.md",
         "gradient_128x128.png",
         "lib/net6.0/MediatR.dll",
         "lib/net6.0/MediatR.xml",
         "lib/netstandard2.0/MediatR.dll",
         "lib/netstandard2.0/MediatR.xml",
-        "mediatr.12.5.0.nupkg.sha512",
+        "mediatr.12.2.0.nupkg.sha512",
         "mediatr.nuspec"
       ]
     },
@@ -252,7 +251,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MediatR >= 12.5.0",
+      "MediatR >= 12.2.0",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "MultiShop.Order.Domain >= 1.0.0"
     ]
@@ -316,7 +315,7 @@
         "dependencies": {
           "MediatR": {
             "target": "Package",
-            "version": "[12.5.0, )"
+            "version": "[12.2.0, )"
           },
           "Microsoft.Extensions.Configuration.Abstractions": {
             "target": "Package",

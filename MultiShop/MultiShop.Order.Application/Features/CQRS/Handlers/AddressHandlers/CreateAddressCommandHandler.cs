@@ -24,7 +24,7 @@ namespace MultiShop.Order.Application.Features.CQRS.Handlers.AddressHandlers
                 Detail1 = createAddressCommand.Detail1,
                 District = createAddressCommand.District,
                 UserId = createAddressCommand.UserId,
-               // Country = createAddressCommand.Country,
+                //Country = createAddressCommand.Country,
                 //Description = createAddressCommand.Description,
                 //Detail2 = createAddressCommand.Detail2,
                 //Email = createAddressCommand.Email,

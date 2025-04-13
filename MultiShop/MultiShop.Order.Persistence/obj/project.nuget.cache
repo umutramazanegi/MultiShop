@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DJInRVIxtfg=",
+  "dgSpecHash": "aeTG8DZDCDE=",
   "success": true,
   "projectFilePath": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

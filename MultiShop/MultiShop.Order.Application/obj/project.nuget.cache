@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HVryLJ+AKRE=",
+  "dgSpecHash": "+D5c8vZsDJg=",
   "success": true,
   "projectFilePath": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Umut Ramazan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

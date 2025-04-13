@@ -1,7 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Github\\MultiShop\\MultiShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAFE8FA-211D-4B3D-AF88-CE413316CC5B}|MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\github\\multishop\\multishop\\multishop.order.persistence\\migrations\\20250413220316_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAFE8FA-211D-4B3D-AF88-CE413316CC5B}|MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:multishop.order.persistence\\migrations\\20250413220316_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\github\\multishop\\multishop\\multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\github\\multishop\\multishop\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\github\\multishop\\multishop\\multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FA99DD-95B7-4428-B3A0-1A318E142403}|MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAFE8FA-211D-4B3D-AF88-CE413316CC5B}|MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\github\\multishop\\multishop\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAFE8FA-211D-4B3D-AF88-CE413316CC5B}|MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A84918-FF45-457A-9284-ED07505DBB6D}|MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\github\\multishop\\multishop\\multishop.order.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3A84918-FF45-457A-9284-ED07505DBB6D}|MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:multishop.order.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\interfaces\\iorderingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\interfaces\\iorderingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingbyuseridqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingbyuseridqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\results\\orderingresults\\getorderingbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\mediator\\queries\\orderingqueries\\getorderingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\queries\\orderdetailqueries\\getorderdetailbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\queries\\orderdetailqueries\\getorderdetailbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\updateorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\updateorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\removeorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\removeorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\createorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\createorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\removeaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\removeaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\updateorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\updateorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\removeorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\removeorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\createorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\createorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\github\\multishop\\multishop\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0D56FA-D108-43A9-B037-52EA40A8EB46}|MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +167,487 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250413220316_mig1.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Persistence\\Migrations\\20250413220316_mig1.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Persistence\\Migrations\\20250413220316_mig1.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Persistence\\Migrations\\20250413220316_mig1.cs",
+              "RelativeToolTip": "MultiShop.Order.Persistence\\Migrations\\20250413220316_mig1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:03:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MultiShop.Order.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.WebApi\\appsettings.json",
+              "RelativeToolTip": "MultiShop.Order.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T21:56:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Interfaces\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Interfaces\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetOrderingQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeToolTip": "MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:16.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:49:52.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "MultiShop.Order.Domain\\Entities\\Address.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:47:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordering.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Domain\\Entities\\Ordering.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
+              "RelativeToolTip": "MultiShop.Order.Domain\\Entities\\Ordering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:49:55.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderingRepository.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IOrderingRepository.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Interfaces\\IOrderingRepository.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IOrderingRepository.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Interfaces\\IOrderingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:45.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetOrderingByUserIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByUserIdQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByUserIdQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByUserIdQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByUserIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetOrderingByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:38.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetOrderingQuery.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:36.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetOrderingByUserIdQuery.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByUserIdQuery.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByUserIdQuery.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByUserIdQuery.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByUserIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetOrderingByIdQuery.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:34.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetOrderDetailQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:29.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetOrderDetailByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:26.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAddressQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAddressByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:07.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetOrderDetailByIdQuery.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:52:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:53.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RemoveOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:51.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetOrderDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAddressByIdQuery.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetOrderDetailByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:46.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:30.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RemoveAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:51:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:59.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAddressByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:47:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:47:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RemoveOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:52.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateAddressCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:48.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RemoveAddressCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateAddressCommand.cs",
+              "DocumentMoniker": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
+              "RelativeDocumentMoniker": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
+              "ToolTip": "C:\\Github\\MultiShop\\MultiShop\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
+              "RelativeToolTip": "MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:41.414Z",
+              "EditorCaption": ""
             }
           ]
         }
