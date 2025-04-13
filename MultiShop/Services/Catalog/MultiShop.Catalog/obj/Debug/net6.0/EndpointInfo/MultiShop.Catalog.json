@@ -492,40 +492,6 @@
           }
         }
       }
-    },
-    "/api/Products/ProductListWithCategory": {
-      "get": {
-        "tags": [
-          "Products"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Products/ProductListWithCategoryByCategoryId/{id}": {
-      "get": {
-        "tags": [
-          "Products"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
     }
   },
   "components": {
@@ -534,10 +500,6 @@
         "type": "object",
         "properties": {
           "categoryName": {
-            "type": "string",
-            "nullable": true
-          },
-          "imageUrl": {
             "type": "string",
             "nullable": true
           }
@@ -622,10 +584,6 @@
             "nullable": true
           },
           "categoryName": {
-            "type": "string",
-            "nullable": true
-          },
-          "imageUrl": {
             "type": "string",
             "nullable": true
           }
