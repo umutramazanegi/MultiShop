@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "packet\\packet.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MultiShop.Discount\\MultiShop.Discount.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

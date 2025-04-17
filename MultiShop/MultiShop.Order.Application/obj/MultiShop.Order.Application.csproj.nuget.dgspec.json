@@ -26,6 +26,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Github\\MultiShop\\MultiShop\\packet": {},
           "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
@@ -108,6 +109,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Github\\MultiShop\\MultiShop\\packet": {},
           "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},

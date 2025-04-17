@@ -11,7 +11,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 {
     opt.Authority = builder.Configuration["IdentityServerUrl"];
     opt.Audience = "ResourceOrder";
-    opt.RequireHttpsMetadata = true;
+    opt.RequireHttpsMetadata = false;
 });
 
 builder.Services.AddDbContext<OrderContext>();
@@ -50,6 +50,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

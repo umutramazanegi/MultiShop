@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "packet.Controllers.RegistersController",
+    "Method": "UserRegister",
+    "RelativePath": "api/Registers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegisterDto",
+        "Type": "packet.Dtos.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
